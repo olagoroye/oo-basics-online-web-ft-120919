@@ -28,7 +28,7 @@ class Shoe
    @material = material
    @comdition = condition
  end 
-  
+  def cobble
 end 
 
 
