@@ -29,6 +29,8 @@ class Shoe
    @comdition = condition
  end 
   def cobble
+    self.condition = "new"
+    
 end 
 
 
